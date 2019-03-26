@@ -1,2 +1,2 @@
 # Facial-Expression-Recognition
-FER2013
+Identifying the emotions based on FER2013 dataset.
